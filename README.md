@@ -7,12 +7,13 @@ SafeRise is an interactive web tool designed to help users assess flood risks at
 ---
 
 ## 🌍 Features
-
-- 🗺️ **Interactive World Map** — Click anywhere to explore elevation and regional data.
-- 📏 **Flood Height Calculator** — Simulate flood scenarios based on rainfall intensity, duration, and terrain runoff.
-- 🚨 **Evacuation Advice** — Get intelligent alerts for 1m, 2.5m, and 5m flood levels.
-- 🧭 **Route to Safety** — Automatically finds and visualizes the closest higher ground using OpenRouteService.
-- 🎨 **Clean UI + Elevation Legend** — Gradient visualization and an intuitive sidebar panel.
+![Alt text](https://github.com/53NNA/SafeRiseAtJamHACKS/blob/main/original-2.png)
+![Alt text](https://github.com/53NNA/SafeRiseAtJamHACKS/raw/main/original-3.png)
+![Alt text](https://github.com/53NNA/SafeRiseAtJamHACKS/raw/main/original-4.png)
+![Alt text](https://github.com/53NNA/SafeRiseAtJamHACKS/raw/main/original-6.png)
+![Alt text](https://github.com/53NNA/SafeRiseAtJamHACKS/raw/main/original-8.png)
+![Alt text](https://github.com/53NNA/SafeRiseAtJamHACKS/raw/main/original-9.png)
+![Alt text](https://github.com/53NNA/SafeRiseAtJamHACKS/raw/main/original-10.png)
 
 ---
 
